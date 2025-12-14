@@ -1,0 +1,27 @@
+{
+  "name": "nuxt-timework",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.15.15",
+    "@nuxt/eslint": "1.12.1",
+    "@nuxt/ui": "^4.2.1",
+    "@nuxthub/core": "^0.10.1",
+    "drizzle-orm": "^0.45.1",
+    "eslint": "^9.39.2",
+    "nuxt": "^4.2.2",
+    "nuxt-auth-utils": "0.5.26",
+    "vue": "^3.5.25",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "drizzle-kit": "^0.31.8"
+  }
+}
