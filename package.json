@@ -12,8 +12,8 @@
   "dependencies": {
     "@libsql/client": "^0.15.15",
     "@nuxt/eslint": "1.12.1",
-    "@nuxt/ui": "^4.2.1",
-    "@nuxthub/core": "^0.10.1",
+    "@nuxt/ui": "^4.3.0",
+    "@nuxthub/core": "^0.10.3",
     "drizzle-orm": "^0.45.1",
     "eslint": "^9.39.2",
     "nuxt": "^4.2.2",
